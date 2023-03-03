@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobilitec-Services", "Mobilitec-Services\Mobilitec-Services.csproj", "{0A2A4D78-5285-471E-BBF9-9EEBBFC66745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A2A4D78-5285-471E-BBF9-9EEBBFC66745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2A4D78-5285-471E-BBF9-9EEBBFC66745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2A4D78-5285-471E-BBF9-9EEBBFC66745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2A4D78-5285-471E-BBF9-9EEBBFC66745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {338A73E8-DF0A-4B01-939B-0318D5005091}
+	EndGlobalSection
+EndGlobal
